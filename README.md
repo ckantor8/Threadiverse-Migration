@@ -18,7 +18,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 
 | FOSS | Name | Platform | OS | Stage | Source Code | Info |
 | ------- |------------------|------------------------------|-------------|-------------------| -----------------------|------------------------------------------------------------------|
-| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [**Unreleased**](https://tech.lgbt/@hariette/110545151572492176) | [/c/memmy@lemmy.ml](https://kbin.social/m/ArtemisApp@kbin.social) |
+| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [**Unreleased**](https://tech.lgbt/@hariette/110545151572492176) | [ArtemisApp@kbin.social](https://kbin.social/m/ArtemisApp) |
 | TBD | Memmy | Lemmy | Android, iOS | Android Release (Pending Play Store Approval) | [Github](https://github.com/gkasdorf/memmy) | [memmy@lemmy.ml](https://kbin.social/m/memmy@lemmy.ml) |
 | TBD | Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | [Github](https://github.com/buresdv/Mlem) | [mlemapp@lemmy.ml](https://kbin.social/m/mlemapp@lemmy.ml) |
 | TBD | Morpha | Lemmy | Android, iOS | Under Development | [Gitlab](https://gitlab.com/spersinger/morpha) | [morpha@vlemmy.net](https://kbin.social/m/morpha@vlemmy.net) |
