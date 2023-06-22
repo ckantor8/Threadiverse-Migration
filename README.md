@@ -29,7 +29,6 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | TBD | Sync | Lemmy | Android | Research | **N/A** | [syncforlemmy@lemmy.world](https://kbin.social/m/syncforlemmy@lemmy.world) |
 | TBD | Slide | Lemmy | Android | Under Development (More information coming) | **N/A** | [original Lemmy post](https://lemmy.world/post/379068) |
 | TBD | Lemmynade | Lemmy | Android | Under Development | **N/A** | [original Lemmy post](https://kbin.social/m/android@lemmy.world/t/66673/I-ve-resurrected-lemmur-a-beautiful-flutter-app-Coming-soon-to) |
-| TBD | Remmel | Lemmy | iOS | Under Development | [Github](https://github.com/uuttff8/Remmel) | **N/A** |
 
 - TBD kbin app from @developerjustin@mastodon.social (iOS, kbin Only, in development) - I've had a chat with the dev of this as-yet-unnamed app, but it's not ready for testing yet.
 
@@ -37,6 +36,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
 	- Forked for both Limbo and Lemmynade
 - [Cavy](https://github.com/avery-pierce/Cavy) (iOS)
+- [Remmel](https://github.com/uuttff8/Remmel) (iOS)
 
 ## kbin Instance Info
 - [Fediverse Observer - kbin](https://kbin.fediverse.observer/list)
