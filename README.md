@@ -18,14 +18,14 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 
 | FOSS | Name | Platform | OS | Stage | Github | Community |
 | ------- |------------------|------------------------------|-------------|-------------------| -----------------------|------------------------------------------------------------------|
-| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [Unreleased](https://tech.lgbt/@hariette/110545151572492176) | https://kbin.social/c/ArtemisApp@kbin.social |
+| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [**Unreleased**](https://tech.lgbt/@hariette/110545151572492176) | https://kbin.social/c/ArtemisApp@kbin.social |
 | TBD | Memmy | Lemmy | Android, iOS | Android Release (Pending Play Store Approval) | https://github.com/gkasdorf/memmy | https://kbin.social/c/memmy@lemmy.ml |
 | TBD | Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | https://github.com/buresdv/Mlem | https://kbin.social/c/mlemapp@lemmy.ml |
 | TBD | Morpha | Lemmy | Android, iOS | Under Development | https://gitlab.com/spersinger/morpha | https://kbin.social/c/morpha@vlemmy.net |
 | TBD | Thunder | Lemmy | Android, iOS | Alpha Release | https://github.com/hjiangsu/thunder | https://kbin.social/c/thunder_app@lemmy.world |
-| TBD | Beyond | Lemmy | Android, iOS | Under Development | Beyond on Github | https://beehaw.org/post/647773 |
-| TBD | Limbo | Lemmy | iOS | TestFlight Beta | **Unreleased** | Join the Limbo for Lemmy beta on iOS |
-| TBD | Jerboa | Lemmy | Android | Released | [Jerboa on GitHub](https://github.com/dessalines/jerboa) | https://kbin.social/c/jerboa@lemmy.ml |
+| TBD | Beyond | Lemmy | Android, iOS | Under Development | [**Unreleased**](https://brunofinger.notion.site/brunofinger/Beyond-45cabaae7f724cd5ad2b77d902e9a97e) | https://beehaw.org/post/647773 |
+| TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | https://lemmy.world/post/356685 |
+| TBD | Jerboa | Lemmy | Android | Released | https://github.com/dessalines/jerboa | https://kbin.social/c/jerboa@lemmy.ml |
 | TBD | Slide | Lemmy | Android | Under Development (More information coming) | Slide on Github | Slide on Lemmy |
 | TBD | Sync | Lemmy | Android | Research | **Unreleased** | https://kbin.social/c/syncforlemmy@lemmy.world |
 | TBD | Remmel | Lemmy | iOS | Under Development | [Remmel on Github](https://github.com/uuttff8/Remmel) | N/A |
