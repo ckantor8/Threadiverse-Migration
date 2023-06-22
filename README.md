@@ -68,6 +68,7 @@ A Lemmy Community is most easily compared to a subreddit. kbin calls Communities
 	- This script will do 2 things:
 		1. Override your KBin.social theme, making it a pleasant dark blue. See screenshots for a preview.
 		2. When you're viewing threads in Compact mode, threads will take up even less space. This looks nice while also allowing you to see more content on your screen. Classic view is unaffected.
+- [kbinStyles magazine for countless other awesome UserStyle and UserScript improvements and themeing](https://kbin.social/m/kbinStyles)
 - [kbinStyles Magazine](https://kbin.social/m/kbinStyles) for custom CSS and JS to help improve your Kbin experience!
 - [Lemmy Deep Rounded](https://userstyles.world/style/10401/lemmy-deep-rounded) (custom CSS via Stylus)
 - [Kbin Link](https://github.com/daniel-lxs/kbin-link) (browser extension) This extension looks for Lemmy style communities and replaces them to direct you to seeing that community on your kbin instance.
