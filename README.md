@@ -29,7 +29,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | TBD | Slide | Lemmy | Android | Under Development (More information coming) | Slide on Github | https://lemmy.world/post/379068 |
 | TBD | Sync | Lemmy | Android | Research | **Unreleased** | https://kbin.social/c/syncforlemmy@lemmy.world |
 | TBD | Remmel | Lemmy | iOS | Under Development | [Remmel on Github](https://github.com/uuttff8/Remmel) | N/A |
-| TBD | Lemmynade | Lemmy | Android | Under Development | **Unreleased** | **N/A** |
+| TBD | Lemmynade | Lemmy | Android | Under Development | **Unreleased** | https://kbin.social/m/android@lemmy.world/t/66673/I-ve-resurrected-lemmur-a-beautiful-flutter-app-Coming-soon-to |
 
 - TBD kbin app from @developerjustin@mastodon.social (iOS, kbin Only, in development) - I've had a chat with the dev of this as-yet-unnamed app, but it's not ready for testing yet.
 
