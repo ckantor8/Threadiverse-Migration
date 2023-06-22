@@ -24,10 +24,10 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | TBD | Morpha | Lemmy | Android, iOS | Under Development | [Gitlab](https://gitlab.com/spersinger/morpha) | [morpha@vlemmy.net](https://kbin.social/m/morpha@vlemmy.net) |
 | TBD | Thunder | Lemmy | Android, iOS | Alpha Release | [Github](https://github.com/hjiangsu/thunder) | [thunder_app@lemmy.world](https://kbin.social/m/thunder_app@lemmy.world) |
 | TBD | Beyond | Lemmy | Android, iOS | Under Development | [**Unreleased**](https://brunofinger.notion.site/brunofinger/Beyond-45cabaae7f724cd5ad2b77d902e9a97e) | [original Beehaw post](https://beehaw.org/post/647773) |
-| TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | [limbo@lemmy.world](https://kbin.social/c/limbo@lemmy.world) |
-| TBD | Jerboa | Lemmy | Android | Released | [Github](https://github.com/dessalines/jerboa) | [jerboa@lemmy.ml](https://kbin.social/c/jerboa@lemmy.ml) |
+| TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | [limbo@lemmy.world](https://kbin.social/m/limbo@lemmy.world) |
+| TBD | Jerboa | Lemmy | Android | Released | [Github](https://github.com/dessalines/jerboa) | [jerboa@lemmy.ml](https://kbin.social/m/jerboa@lemmy.ml) |
 | TBD | Slide | Lemmy | Android | Under Development (More information coming) | **N/A** | [original Lemmy post](https://lemmy.world/post/379068) |
-| TBD | Sync | Lemmy | Android | Research | **N/A** | [syncforlemmy@lemmy.world](https://kbin.social/c/syncforlemmy@lemmy.world) |
+| TBD | Sync | Lemmy | Android | Research | **N/A** | [syncforlemmy@lemmy.world](https://kbin.social/m/syncforlemmy@lemmy.world) |
 | TBD | Remmel | Lemmy | iOS | Under Development | [Github](https://github.com/uuttff8/Remmel) | **N/A** |
 | TBD | Lemmynade | Lemmy | Android | Under Development | **N/A** | [original Lemmy post](https://kbin.social/m/android@lemmy.world/t/66673/I-ve-resurrected-lemmur-a-beautiful-flutter-app-Coming-soon-to) |
 
