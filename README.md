@@ -23,7 +23,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Thunder](https://github.com/hjiangsu/thunder) (Android, iOS via AltStore, Lemmy)
 - [Morpha](https://gitlab.com/spersinger/morpha) (unreleased, Lemmy, in development)
 - [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since Sync for Reddit was Android, assuming Lemmy Only, in development)
--
+
 
 
 | Name | Platform | OS | Stage | Link | |------------------|------------------------------|-------------|-------------------------------------------------|------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | Sync | Lemmy | Android | Research | /c/syncforlemmy@lemmy.world |
 
 
--
+
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
 - [Cavy](https://github.com/avery-pierce/Cavy) (iOS)
