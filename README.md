@@ -24,7 +24,8 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [Morpha](https://gitlab.com/spersinger/morpha) (unreleased, Lemmy, in development)
 - [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since Sync for Reddit was Android, assuming Lemmy Only, in development)
 
-| Name | Platform | OS | Stage | Link | |------------------|------------------------------|-------------|-------------------------------------------------|------------------------------------------------------------------------------------------|
+
+| Name | Platform | OS | Stage | Link | |------------------|------------------------------|-------------|-------------------------------------------------|------------------------------------------------------------------------------------|
 | Artemis (Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | /c/ArtemisApp@kbin.social |
 | Memmy | Lemmy | Android, iOS | Android Release (Pending Play Store Approval) | /c/memmy@lemmy.ml |
 | Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | /c/mlemapp@lemmy.ml |
@@ -35,6 +36,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | Jerboa | Lemmy | Android | Released | Jerboa on GitHub |
 | Slide | Lemmy | Android | Under Development (More information coming) | Slide on Lemmy |
 | Sync | Lemmy | Android | Research | /c/syncforlemmy@lemmy.world |
+
 
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
