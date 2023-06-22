@@ -18,12 +18,12 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 
 | FOSS | Name | Platform | OS | Stage | Source Code | Info |
 | ------- |------------------|------------------------------|-------------|-------------------| -----------------------|------------------------------------------------------------------|
-| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [**Unreleased**](https://tech.lgbt/@hariette/110545151572492176) | [ArtemisApp@kbin.social](https://kbin.social/m/ArtemisApp) |
 | TBD | Memmy | Lemmy | Android, iOS | Android Release (Pending Play Store Approval) | [Github](https://github.com/gkasdorf/memmy) | [memmy@lemmy.ml](https://kbin.social/m/memmy@lemmy.ml) |
 | TBD | Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | [Github](https://github.com/buresdv/Mlem) | [mlemapp@lemmy.ml](https://kbin.social/m/mlemapp@lemmy.ml) |
 | TBD | Morpha | Lemmy | Android, iOS | Under Development | [Gitlab](https://gitlab.com/spersinger/morpha) | [morpha@vlemmy.net](https://kbin.social/m/morpha@vlemmy.net) |
 | TBD | Thunder | Lemmy | Android, iOS | Alpha Release | [Github](https://github.com/hjiangsu/thunder) | [thunder_app@lemmy.world](https://kbin.social/m/thunder_app@lemmy.world) |
 | TBD | Jerboa | Lemmy | Android | Released | [Github](https://github.com/dessalines/jerboa) | [jerboa@lemmy.ml](https://kbin.social/m/jerboa@lemmy.ml) |
+| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [**Unreleased**](https://tech.lgbt/@hariette/110545151572492176) | [ArtemisApp@kbin.social](https://kbin.social/m/ArtemisApp) |
 | TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | [limbo@lemmy.world](https://kbin.social/m/limbo@lemmy.world) |
 | TBD | Beyond | Lemmy | Android, iOS | Under Development | [**Unreleased**](https://brunofinger.notion.site/brunofinger/Beyond-45cabaae7f724cd5ad2b77d902e9a97e) | [original Beehaw post](https://beehaw.org/post/647773) |
 | TBD | Sync | Lemmy | Android | Research | **N/A** | [syncforlemmy@lemmy.world](https://kbin.social/m/syncforlemmy@lemmy.world) |
