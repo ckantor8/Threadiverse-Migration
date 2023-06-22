@@ -35,6 +35,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
+	- Forked for both Limbo and Lemmynade
 - [Cavy](https://github.com/avery-pierce/Cavy) (iOS)
 
 ## kbin Instance Info
