@@ -14,31 +14,24 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 - [kbin](https://kbin.pub/en)
 
 ## Apps
-- [Jerboa](https://github.com/dessalines/jerboa) (Android, Lemmy Only)
-- [Mlem](https://github.com/buresdv/Mlem) (iOS, Lemmy Only, beta testing)
-- [Memmy](https://github.com/gkasdorf/memmy) (iOS, Lemmy Only, beta testing)
+
+
+| FOSS | Name | Platform | OS | Stage | Github | Community |
+| ------- |------------------|------------------------------|-------------|-------------------| -----------------------|------------------------------------------------------------------|
+| TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [Unreleased](https://tech.lgbt/@hariette/110545151572492176) | https://kbin.social/c/ArtemisApp@kbin.social |
+| TBD | Memmy | Lemmy | Android, iOS | Android Release (Pending Play Store Approval) | [gkasdorf on Github](https://github.com/gkasdorf/memmy) | https://kbin.social/c/memmy@lemmy.ml |
+| TBD | Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | [buresdv on Github](https://github.com/buresdv/Mlem) | https://kbin.social/c/mlemapp@lemmy.ml |
+| TBD | Morpha | Lemmy | Android, iOS | Under Development | [spersinger on Github](https://gitlab.com/spersinger/morpha) | https://kbin.social/c/morpha@vlemmy.net |
+| TBD | Thunder | Lemmy | Android, iOS | Alpha Release | [hijiangsu on GitHub](https://github.com/hjiangsu/thunder) | https://kbin.socialthunder_app@lemmy.world |
+| TBD | Beyond | Lemmy | Android, iOS | Under Development | Beyond on Github | Beyond on Lemmy |
+| TBD | Limbo | Lemmy | iOS | TestFlight Beta | **Unreleased** | Join the Limbo for Lemmy beta on iOS |
+| TBD | Jerboa | Lemmy | Android | Released | [Jerboa on GitHub](https://github.com/dessalines/jerboa) | jerboa@lemmy.ml |
+| TBD | Slide | Lemmy | Android | Under Development (More information coming) | Slide on Github | Slide on Lemmy |
+| TBD | Sync | Lemmy | Android | Research | **Unreleased** | /c/syncforlemmy@lemmy.world |
+| TBD | Remmel | Lemmy | iOS | Under Development | [Remmel on Github](https://github.com/uuttff8/Remmel) | N/A |
+| TBD | Lemmynade | Lemmy | Android | Under Development | **Unreleased** | **N/A** |
+
 - TBD kbin app from @developerjustin@mastodon.social (iOS, kbin Only, in development) - I've had a chat with the dev of this as-yet-unnamed app, but it's not ready for testing yet.
-- [Artemis](https://kbin.social/m/ArtemisApp) (unreleased, [kbin and Lemmy](https://tech.lgbt/@hariette/110545151572492176))
-- [Remmel](https://github.com/uuttff8/Remmel) (iOS, Lemmy Only)
-- [Thunder](https://github.com/hjiangsu/thunder) (Android, iOS via AltStore, Lemmy)
-- [Morpha](https://gitlab.com/spersinger/morpha) (unreleased, Lemmy, in development)
-- [Sync for Lemmy](https://lemmy.world/c/syncforlemmy) (Assuming Android since Sync for Reddit was Android, assuming Lemmy Only, in development)
-
-
-
-| Name | Platform | OS | Stage | Link | |------------------|------------------------------|-------------|-------------------------------------------------|------------------------------------------------------------------------------------|
-| Artemis (Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | /c/ArtemisApp@kbin.social |
-| Memmy | Lemmy | Android, iOS | Android Release (Pending Play Store Approval) | /c/memmy@lemmy.ml |
-| Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | /c/mlemapp@lemmy.ml |
-| Morpha | Lemmy | Android, iOS | Under Development | /c/morpha@vlemmy.net |
-| Thunder (FOSS) | Lemmy | Android, iOS | Alpha Release | Thunder on GitHub |
-| Beyond | Lemmy | Android, iOS | Under Development | Beyond on Lemmy |
-| Limbo | Lemmy | iOS | TestFlight Beta | Join the Limbo for Lemmy beta on iOS |
-| Jerboa | Lemmy | Android | Released | Jerboa on GitHub |
-| Slide | Lemmy | Android | Under Development (More information coming) | Slide on Lemmy |
-| Sync | Lemmy | Android | Research | /c/syncforlemmy@lemmy.world |
-
-
 
 ### No Longer Maintained/Abandoned
 - [Lemmur](https://github.com/LemmurOrg/lemmur) (Android)
