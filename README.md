@@ -24,7 +24,7 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | TBD | Morpha | Lemmy | Android, iOS | Under Development | https://gitlab.com/spersinger/morpha | https://kbin.social/c/morpha@vlemmy.net |
 | TBD | Thunder | Lemmy | Android, iOS | Alpha Release | https://github.com/hjiangsu/thunder | https://kbin.social/c/thunder_app@lemmy.world |
 | TBD | Beyond | Lemmy | Android, iOS | Under Development | [**Unreleased**](https://brunofinger.notion.site/brunofinger/Beyond-45cabaae7f724cd5ad2b77d902e9a97e) | https://beehaw.org/post/647773 |
-| TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | https://lemmy.world/post/356685 |
+| TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | https://kbin.social/c/limbo@lemmy.world |
 | TBD | Jerboa | Lemmy | Android | Released | https://github.com/dessalines/jerboa | https://kbin.social/c/jerboa@lemmy.ml |
 | TBD | Slide | Lemmy | Android | Under Development (More information coming) | Slide on Github | https://lemmy.world/post/379068 |
 | TBD | Sync | Lemmy | Android | Research | **Unreleased** | https://kbin.social/c/syncforlemmy@lemmy.world |
