@@ -22,13 +22,13 @@ Inspiration for this page came from [tleb's Awesome Mastodon](https://github.com
 | TBD | Mlem | Lemmy | iOS | Submitted for App Store Review (July 1) | [Github](https://github.com/buresdv/Mlem) | [mlemapp@lemmy.ml](https://kbin.social/m/mlemapp@lemmy.ml) |
 | TBD | Morpha | Lemmy | Android, iOS | Under Development | [Gitlab](https://gitlab.com/spersinger/morpha) | [morpha@vlemmy.net](https://kbin.social/m/morpha@vlemmy.net) |
 | TBD | Thunder | Lemmy | Android, iOS | Alpha Release | [Github](https://github.com/hjiangsu/thunder) | [thunder_app@lemmy.world](https://kbin.social/m/thunder_app@lemmy.world) |
-| TBD | Jerboa | Lemmy | Android | Released | [Github](https://github.com/dessalines/jerboa) | [jerboa@lemmy.ml](https://kbin.social/m/jerboa@lemmy.ml) |
+| YES | Jerboa | Lemmy | Android | Released | [Github](https://github.com/dessalines/jerboa) | [jerboa@lemmy.ml](https://kbin.social/m/jerboa@lemmy.ml) |
 | TBD | Artemis (formerly Kmoon) | Kbin, Lemmy (Upcoming) | Android, iOS | Private Beta (Starts End of June) | [**Unreleased**](https://tech.lgbt/@hariette/110545151572492176) | [ArtemisApp@kbin.social](https://kbin.social/m/ArtemisApp) |
 | TBD | Limbo | Lemmy | iOS | TestFlight Beta | [**Unreleased**](https://testflight.apple.com/join/e6ZEbxuR) | [limbo@lemmy.world](https://kbin.social/m/limbo@lemmy.world) |
-| TBD | Beyond | Lemmy | Android, iOS | Under Development | [**Unreleased**](https://brunofinger.notion.site/brunofinger/Beyond-45cabaae7f724cd5ad2b77d902e9a97e) | [original Beehaw post](https://beehaw.org/post/647773) |
+| YES | Beyond | Lemmy | Android, iOS | Under Development | [**Unreleased**](https://brunofinger.notion.site/brunofinger/Beyond-45cabaae7f724cd5ad2b77d902e9a97e) | [original Beehaw post](https://beehaw.org/post/647773) |
 | TBD | Sync | Lemmy | Android | Research | **N/A** | [syncforlemmy@lemmy.world](https://kbin.social/m/syncforlemmy@lemmy.world) |
-| TBD | Slide | Lemmy | Android | Under Development (More information coming) | **N/A** | [original Lemmy post](https://lemmy.world/post/379068) |
-| TBD | Lemmynade | Lemmy | Android | Under Development | **N/A** | [original Lemmy post](https://kbin.social/m/android@lemmy.world/t/66673/I-ve-resurrected-lemmur-a-beautiful-flutter-app-Coming-soon-to) |
+| YES | Slide | Lemmy | Android | Under Development (More information coming) | **N/A** | [original Lemmy post](https://lemmy.world/post/379068) |
+| YES | Lemmynade | Lemmy | Android | Under Development | **N/A** | [original Lemmy post](https://kbin.social/m/android@lemmy.world/t/66673/I-ve-resurrected-lemmur-a-beautiful-flutter-app-Coming-soon-to) |
 
 - TBD kbin app from @developerjustin@mastodon.social (iOS, kbin Only, in development) - I've had a chat with the dev of this as-yet-unnamed app, but it's not ready for testing yet.
 
